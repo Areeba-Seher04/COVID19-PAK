@@ -30,9 +30,6 @@
 <h2> Punjab </h2>
 <a href="https://plotly.com/~AreebaSeher/53/#/">Recoveries in Punjab </a>
 
-<h2> Punjab </h2>
-<a href="">Recoveries in Punjab </a>
-
 <h2> KP </h2>
 <a href="https://plotly.com/~AreebaSeher/55/#/">Recoveries in KP </a>
 
